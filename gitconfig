@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mui_ume@hotmail.com
+	name = LayMui
